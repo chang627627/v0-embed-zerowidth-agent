@@ -13,7 +13,7 @@
 
 const chatConfig = {
   flowURL:
-    "https://api.zerowidth.ai/beta/process/7Gnf4bc8JPuh6LO2sKAY/hCMbjGnO4RoSNflJlA3j",
+    "https://api.zerowidth.ai/v1/process/7Gnf4bc8JPuh6LO2sKAY/hCMbjGnO4RoSNflJlA3j",
   header: {
     title: "Chat with ELIZA",
     description:
